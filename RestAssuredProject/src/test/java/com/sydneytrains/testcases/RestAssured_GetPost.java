@@ -55,6 +55,7 @@ public class RestAssured_GetPost {
 			log().all();
 		
 		// https://reqres.in/api/users	
+		System.out.println("This is with Git");
 
 	}
 	
