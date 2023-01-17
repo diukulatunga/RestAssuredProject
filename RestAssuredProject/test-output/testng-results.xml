@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-17T21:56:39 AEDT" name="Default suite" finished-at="2023-01-17T21:56:48 AEDT" duration-ms="9457">
+    <groups>
+    </groups>
+    <test started-at="2023-01-17T21:56:39 AEDT" name="Default test" finished-at="2023-01-17T21:56:48 AEDT" duration-ms="9457">
+      <class name="com.sydneytrains.testcases.RestAssured_GetPost">
+        <test-method signature="testGet()[pri:0, instance:com.sydneytrains.testcases.RestAssured_GetPost@72057ecf]" started-at="2023-01-17T21:56:39 AEDT" name="testGet" finished-at="2023-01-17T21:56:48 AEDT" duration-ms="9226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGet -->
+      </class> <!-- com.sydneytrains.testcases.RestAssured_GetPost -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
